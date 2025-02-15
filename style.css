@@ -4,10 +4,6 @@ body {
 	background: black;
 }
 
-.bg-image {
-	filter: blur(5px);
-}
-
 .head {
 
 	text-decoration: underline;
@@ -18,11 +14,11 @@ body {
 
 .container {
 
-	display: flex;
-	flex-wrap: wrap;
+	display: flex; /* Allows Use Of Flex */
+	flex-wrap: wrap; /* Allows FlexBoxes To Go To Different Lines (stack) */
 	justify-content: center; /* Main-Axis */
 	align-items: center; /* Cross-Axis */
-	align-content: center;
+	align-content: center; /* Gaps Between Boxes / Moves Boxes */
 	margin: 5px;
 	gap: 5px;
 

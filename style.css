@@ -19,7 +19,7 @@ body {
 	justify-content: center; /* Main-Axis */
 	align-items: center; /* Cross-Axis */
 	align-content: center; /* Gaps Between Boxes / Moves Boxes */
-	margin: 5px;
+	margin: 30px;
 	gap: 5px;
 
 
@@ -54,6 +54,51 @@ body {
 }
 
 .container-3 {
+
+	height: 150px;
+	width: 300px;
+	color: white;
+	border: 3px solid white;
+	background: black;
+	text-align: center;
+
+}
+
+.container-4 {
+
+	height: 150px;
+	width: 300px;
+	color: white;
+	border: 3px solid white;
+	background: black;
+	text-align: center;
+
+
+}
+
+.container-5 {
+
+	height: 150px;
+	width: 300px;
+	color: white;
+	border: 3px solid white;
+	background: black;
+	text-align: center;
+
+}
+
+.container-6 {
+
+	height: 150px;
+	width: 300px;
+	color: white;
+	border: 3px solid white;
+	background: black;
+	text-align: center;
+
+}
+
+.container-7 {
 
 	height: 150px;
 	width: 300px;
